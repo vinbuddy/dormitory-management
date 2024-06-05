@@ -14,12 +14,12 @@
 ## Cách sử dụng
 
 - Truy cập vào website: http://dormitory-management.great-site.net/
-####import file excel:
+#### import file excel:
 1. Import điện nước các phòng: http://dormitory-management.great-site.net/...
 2. Import file trang thiết bị:
 http://dormitory-management.great-site.net/...
 
-#####1 số danh sách hỗ trợ in pdf và export ra file excel.
+##### 1 số danh sách hỗ trợ in pdf và export ra file excel.
 #### Trang thanh toán : invoice
  1. Lựa chọn phòng muốn thanh toán
  2. Chọn thanh toán cho( tiền phòng, tiền điện nước, tiền thuê thiết bị), nếu là tiền phòng,chọn thêm sinh viên.
