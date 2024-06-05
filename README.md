@@ -19,11 +19,11 @@ import điện nước các phòng: http://dormitory-management.great-site.net/.
 import file trang thiết bị:
 http://dormitory-management.great-site.net/...
 1 số danh sách hỗ trợ in pdf và export ra file excel.
-### Trang thanh toán : invoice
+#### Trang thanh toán : invoice
  1. Lựa chọn phòng muốn thanh toán
  2. Chọn thanh toán cho( tiền phòng, tiền điện nước, tiền thuê thiết bị), nếu là tiền phòng,chọn thêm sinh viên.
  3. Xem thông tin hoá đơn và thanh toán hoặc cancel.(nếu không có hiện không có gì để thanh toán).
-đối với thanh toán cho thuê thiết bị :'thanh toán và tiếp tục thuê','thanh toán và ngừng thuê'
+đối với thanh toán cho thuê thiết bị :'thanh toán và tiếp tục thuê';'thanh toán và ngừng thuê'.
 
 ## Các dữ liệu cần thiết
 
