@@ -18,7 +18,7 @@
 1. Import điện nước các phòng: http://dormitory-management.great-site.net/...
 2. Import file trang thiết bị:
 http://dormitory-management.great-site.net/...
-##### File excel để sử dụng trên ở **Dữ liệu cần thiết** bên dưới
+##### File excel để sử dụng ở mục **Dữ liệu cần thiết** bên dưới
 ##### 1 số danh sách hỗ trợ in pdf và export ra file excel.
 #### Trang thanh toán : invoice
  1. Lựa chọn phòng muốn thanh toán
