@@ -27,6 +27,11 @@
  3. Xem thông tin hoá đơn và thanh toán hoặc cancel.(nếu không có hiện không có gì để thanh toán).
 đối với thanh toán cho thuê thiết bị :'thanh toán và tiếp tục thuê';'thanh toán và ngừng thuê'.
 
+#### Trang thuê thiết bị: device rental
+- Link truy cập: http://dormitory-management.great-site.net/device/devicerental/createDeviceRental
+- Trang sẽ hiển thị lên danh sách thiết bị và mỗi dòng thiết bị có 1 nút thuê(rent) khi thuê thì thiết bị sẽ xuất hiện ở bảng
+thiết bị cho thuê bên dưới có thể tăng giảm số lượng, chọn phòng và sau đó bấm nút thuê lớn tất cả thiết bị chọn sẽ được cho thuê thành công
+
 ## Các dữ liệu cần thiết
 
 1. **Email và mật khẩu đăng nhập**
