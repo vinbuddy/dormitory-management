@@ -36,7 +36,7 @@ thiết bị cho thuê bên dưới có thể tăng giảm số lượng, chọn
 ## Các tệp đính kèm
 > [!IMPORTANT]
 > 1. **Document** : [tải ở đây](https://docs.google.com/document/d/1MfUaTIyQZ3ribX7NiKZ9P1vUbonbiaqj/edit?usp=sharing&ouid=116426256626098687419&rtpof=true&sd=true)
-> 2. **cơ sở dữ liệu**: [tải ở đây]([https://drive.google.com/file/d/1EKKkcgVFz83pQ6310cjf0R0rZcDErVyH/view?usp=sharing](https://drive.google.com/file/d/1EKKkcgVFz83pQ6310cjf0R0rZcDErVyH/view?usp=sharing))
+> 2. **cơ sở dữ liệu**: [tải ở đây](https://drive.google.com/file/d/1EKKkcgVFz83pQ6310cjf0R0rZcDErVyH/view?usp=sharing)
 
 
 Cảm ơn đã sử dụng dự án!
