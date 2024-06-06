@@ -32,20 +32,10 @@
 - Trang sẽ hiển thị lên danh sách thiết bị và mỗi dòng thiết bị có 1 nút thuê(rent) khi thuê thì thiết bị sẽ xuất hiện ở bảng
 thiết bị cho thuê bên dưới có thể tăng giảm số lượng, chọn phòng và sau đó bấm nút thuê lớn tất cả thiết bị chọn sẽ được cho thuê thành công
 
-## Các dữ liệu cần thiết
 
-1. **Email và mật khẩu đăng nhập**
-
-    ```bash
-     admin@gmail.com
-    ```
-     ```bash
-      123456
-    ```
-
-2. **Các file excel để import**
-    - File hóa đơn điện nước:
-    - File thiết bị:  
+### Các tệp đính kèm
+1. **Document**
+2. **cơ sở dữ liệu**
 
 
 Cảm ơn đã sử dụng dự án!
