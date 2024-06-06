@@ -19,8 +19,8 @@
 ## Cách sử dụng
 - Truy cập vào website: http://dormitory-management.great-site.net/
 #### Trang import file excel:
-> * Import điện nước các phòng: http://dormitory-management.great-site.net/bill/room/createExcelView
-> * Import file trang thiết bị: http://dormitory-management.great-site.net/device/createExcelView
+> * Import điện nước các phòng: [Go to page](http://dormitory-management.great-site.net/bill/room/createExcelView)
+> * Import file trang thiết bị: [Go to page](http://dormitory-management.great-site.net/device/createExcelView)
 #### 1 số danh sách hỗ trợ in pdf và export ra file excel.
 #### Trang thanh toán : invoice
  1. Lựa chọn phòng muốn thanh toán
