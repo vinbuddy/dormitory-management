@@ -11,6 +11,8 @@
 - Thanh toán hoá đơn
 - Quản lý nhân viên, chức vụ
 - Quản lý user, quyền truy cập
+- Quản lý thiết bị, loại thiết bị
+- Quản lý cho thuê thiết bị
 ## Cách sử dụng
 
 - Truy cập vào website: http://dormitory-management.great-site.net/
