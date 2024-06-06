@@ -1,5 +1,5 @@
 # Quản lý kí túc xá sử dụng Laravel
-##Danh mục:
+## Danh mục:
 - [Tính năng](#các-tính-năng)
 - [Hướng dẫn sử dụng](#cách-sử-dụng)
 - [Document và sql](#các-tệp-đính-kèm)
@@ -36,8 +36,8 @@ thiết bị cho thuê bên dưới có thể tăng giảm số lượng, chọn
 
 ## Các tệp đính kèm
 > [!IMPORTANT]
-> 1. **Document** : [tải ở đây]([https://www.google.com](https://docs.google.com/document/d/1MfUaTIyQZ3ribX7NiKZ9P1vUbonbiaqj/edit?usp=sharing&ouid=116426256626098687419&rtpof=true&sd=true))
-> 2. **cơ sở dữ liệu**: [tải ở đây]([https://www.google.com](https://drive.google.com/file/d/1EKKkcgVFz83pQ6310cjf0R0rZcDErVyH/view?usp=sharing))
+> 1. **Document** : [tải ở đây](https://www.google.com](https://docs.google.com/document/d/1MfUaTIyQZ3ribX7NiKZ9P1vUbonbiaqj/edit?usp=sharing&ouid=116426256626098687419&rtpof=true&sd=true)
+> 2. **cơ sở dữ liệu**: [tải ở đây](https://www.google.com](https://drive.google.com/file/d/1EKKkcgVFz83pQ6310cjf0R0rZcDErVyH/view?usp=sharing)
 
 
 Cảm ơn đã sử dụng dự án!
